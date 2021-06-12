@@ -3,7 +3,7 @@
 
 This is a map for the game Outlast, loading the entire location \
 Part: **Outlast and Outlast: Whistleblower** \
-**WARNING!!! Causes severe lags!** \ 
+**WARNING!!! Causes severe lags!** 
 **It is desirable to remove the super brightness and have a powerful computer!**
 
 # How install this?
